@@ -13,13 +13,13 @@ Skills personales para agentes. La [CLI de skills](https://github.com/vercel-lab
 Desde un proyecto:
 
 ```bash
-npx skills add andrespineiro/skills
+npx skills add andrespi97/skills
 ```
 
 Listar las skills sin instalarlas:
 
 ```bash
-npx skills add andrespineiro/skills --list
+npx skills add andrespi97/skills --list
 ```
 
 ## Añadir una skill
